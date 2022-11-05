@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\bin\Debug\net6.0\Lessons-In-C-Sharp.exe
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\bin\Debug\net6.0\Lessons-In-C-Sharp.deps.json
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\bin\Debug\net6.0\Lessons-In-C-Sharp.runtimeconfig.json
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\bin\Debug\net6.0\Lessons-In-C-Sharp.dll
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\bin\Debug\net6.0\Lessons-In-C-Sharp.pdb
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\obj\Debug\net6.0\Lessons-In-C-Sharp.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\obj\Debug\net6.0\Lessons-In-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\obj\Debug\net6.0\Lessons-In-C-Sharp.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\obj\Debug\net6.0\Lessons-In-C-Sharp.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\obj\Debug\net6.0\Lessons-In-C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\obj\Debug\net6.0\Lessons-In-C-Sharp.dll
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\obj\Debug\net6.0\refint\Lessons-In-C-Sharp.dll
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\obj\Debug\net6.0\Lessons-In-C-Sharp.pdb
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\obj\Debug\net6.0\Lessons-In-C-Sharp.genruntimeconfig.cache
+C:\Users\Jason\Desktop\Projects\Lessons-In-C-Sharp\obj\Debug\net6.0\ref\Lessons-In-C-Sharp.dll
